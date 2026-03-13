@@ -1,0 +1,10 @@
+# ninja log v5
+67	4255	7949385169780955	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	eabb8e5a31595871
+45	4293	7949385170100039	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a99d33cc78b35a76
+20	4299	7949385170277437	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1cfabcb785154481
+81	4339	7949385170851024	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7380cadeb3fb0c3f
+33	4475	7949385172106346	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5cdd9fb55535a6c1
+102	5000	7949385177468050	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6150229b0d060089
+55	5191	7949385179287370	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	877561227932886e
+1	5506	7949385182421476	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7ae067c279471dde
+5507	5796	7949385185559534	C:/Users/deepa/Zombie Hit Frenzy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/376p6n18/obj/arm64-v8a/libgame.so	64b696cb5e3f5fe2
